@@ -2,6 +2,7 @@ BiomechanicsCode_MM
 ===================
 A package of useful Mathematica functions for experimental and computational Biomechanics research
 
+COMING SOON!
 
 Mathematica package containing useful functions:
 biomechanics.m
