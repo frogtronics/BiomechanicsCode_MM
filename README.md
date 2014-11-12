@@ -12,8 +12,8 @@ http://stackoverflow.com/questions/4641512/how-to-install-new-packages-for-mathe
 OR, just install the package manually by navigating to where MM is installed, finding the packages folder and dragging 
 in the biomechanics.m file.
 
-To load all of the functions, write:
+To load all of the functions, type:
 Needs['Biomechanics`"]
 
-For any given function, write ::usage to get information of how to apply the code and examples
+For any given function, type ::usage to get information of how to apply the code and examples
 e.g. BFilterR::usage 
